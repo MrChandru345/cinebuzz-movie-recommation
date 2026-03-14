@@ -1,4 +1,4 @@
-# 🎬 CineVerse
+# 🎬 CineBuzz
 
 CineVerse is a modern, feature-rich movie discovery web application built with React, Vite, and Tailwind CSS. It leverages the TMDB (The Movie Database) API to provide users with an immersive browsing experience for trending, Hollywood, and Kollywood movies.
 
